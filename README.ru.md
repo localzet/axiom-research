@@ -9,3 +9,7 @@
 - `roadmap/Axiom-Roadmap-v0.2.0-RU.docx`
 
 `PRIOR_ART.md` и `NOVELTY_BOUNDARY.md` фиксируют границу новизны; рядом лежат их русскоязычные варианты.
+
+## Авторство
+
+Сопровождающий собственных изменений: **Ivan Zorin (localzet)** — <creator@localzet.com> · https://www.localzet.com. Copyright © 2026 Localzet Group. Исходное авторство и лицензии сторонних компонентов сохраняются. См. [AUTHORS](.github/AUTHORS.md).

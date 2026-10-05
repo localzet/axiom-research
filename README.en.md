@@ -9,3 +9,7 @@ Russian. TeX/BibTeX sources are intentionally absent from v0.2.
 - `roadmap/Axiom-Roadmap-v0.2.0-RU.docx`
 
 `PRIOR_ART.md` and `NOVELTY_BOUNDARY.md` document the research boundary; Russian variants are provided alongside them.
+
+## Авторство
+
+Сопровождающий собственных изменений: **Ivan Zorin (localzet)** — <creator@localzet.com> · https://www.localzet.com. Copyright © 2026 Localzet Group. Исходное авторство и лицензии сторонних компонентов сохраняются. См. [AUTHORS](.github/AUTHORS.md).
