@@ -10,6 +10,6 @@ Russian. TeX/BibTeX sources are intentionally absent from v0.2.
 
 `PRIOR_ART.md` and `NOVELTY_BOUNDARY.md` document the research boundary; Russian variants are provided alongside them.
 
-## Авторство
+## Attribution
 
-Сопровождающий собственных изменений: **Ivan Zorin (localzet)** — <creator@localzet.com> · https://www.localzet.com. Copyright © 2026 Localzet Group. Исходное авторство и лицензии сторонних компонентов сохраняются. См. [AUTHORS](.github/AUTHORS.md).
+Maintainer of Localzet contributions: **Ivan Zorin (localzet)** — <creator@localzet.com> · https://www.localzet.com. Copyright © 2026 Localzet Group. Original authorship and third-party licenses remain applicable. See [AUTHORS](.github/AUTHORS.md).
